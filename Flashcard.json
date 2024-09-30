@@ -1,0 +1,22 @@
+[
+    {
+        "word": "benevolent",
+        "definitions": [
+            "A) Kind and generous",
+            "B) Harsh and unkind",
+            "C) Indifferent",
+            "D) Cruel"
+        ],
+        "correct_definition": "A"
+    },
+    {
+        "word": "ambiguous",
+        "definitions": [
+            "A) Clear and precise",
+            "B) Open to more than one interpretation",
+            "C) Easily understood",
+            "D) Specific"
+        ],
+        "correct_definition": "B"
+    }
+]
